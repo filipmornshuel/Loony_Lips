@@ -1,0 +1,22 @@
+[
+		{
+		"wildcards" :  ["a name", "a noun", "adverb", "adjective"],
+		"story" : "Once upon a time someone called %s ate a %s flavoured sandwich which made him feel all %s inside. It was a %s day"
+		},
+		{
+		"wildcards" : ["a noun", "a name", "an adjective", "another name"],
+		"story" : "There once was %s called %s who searched far and wide for the mythical %s noun of %s."
+		},
+		{
+		"wildcards" : ["a city", "an adjective", "a name"],
+		"story" : "Somewhere near %s was a really %s party, thrown by %s ."
+		},
+		{
+		"wildcards" : ["a name", "an adjective", "a country"],
+		"story" : "Back in the 90s the life of %s. was really %s, the life was simply and clear in %s  "
+		},
+		{
+		"wildcards" : ["a noun", "a country", "a noun"],
+		"story" : "I'd buy %s if I won the lottery and I'd visit %s and buy a really expensive %s."
+		}
+	]
